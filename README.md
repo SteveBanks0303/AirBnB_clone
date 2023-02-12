@@ -1,4 +1,3 @@
-Description 🏷️
 HBNB is a complete web application, integrating database storage, HTML/CSS templating, API, front-end and others.
 
 This team project is part of the ALX School Software Engineering program.
